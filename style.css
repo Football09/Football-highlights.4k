@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(58, 81, 87);
+}
+.wakas{
+    position: absolute;
+    left: 25px;
+    color: white;
+    font-size: 100px;
+    background-color: rgba(255, 255, 255, 0.377);
+}
+.soco{
+bottom: -930px;
+position: absolute;
+left: 850px;
+}
+.photo1{
+    position: absolute;
+    bottom: 500px;
+    right: 1px;
+}
+.March1{
+background-color: white;
+position: absolute;
+right: 965px;
+font-size: 20px;
+bottom: 30px;
+}
+.haye1{
+    position: absolute;
+    right: 65px;
+    bottom: 110px;
+    font-size: 30px;
+    color: white;
+}
+.haye2{
+    position: absolute;
+    right: 70px;
+    bottom: 65px;
+    font-size: 33px;
+}
+.March2{
+    background-color: white;
+    position: absolute;
+    right: 500px;
+    font-size: 20px;
+    bottom: 30px;
+    }
+    .March3{
+        background-color: white;
+        position: absolute;
+        right: 500px;
+        font-size: 20px;
+        top: 650px;
+        }
+.March4{
+background-color: white;
+position: absolute;
+font-size: 20px;
+top: 650px;
+}
+.March5{
+    background-color: white;
+    position: absolute;
+    font-size: 20px;
+    top: 1130px;
+    }
+    .March6{
+        background-color: white;
+        position: absolute;
+        right: 500px;
+        font-size: 20px;
+        top: 1130px;
+        }
+        .photo2{
+            position: relative;
+            top: 1550px;
+            right: 1px;
+        }
+        .wakas2{
+            position: absolute;
+            left: 280px;
+            color: white;
+            font-size: 100px;
+            top: 1550px;
+        }      
+ 
